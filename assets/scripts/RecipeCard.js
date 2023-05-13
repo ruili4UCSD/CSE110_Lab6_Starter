@@ -144,7 +144,7 @@ class RecipeCard extends HTMLElement {
         ${data.ingredients}
       </p>
     `;
-    newArticleRC.innerHTML = templateArtice;
+    newArticleRC.innerHTML = templateArticle;
   }
 }
 
